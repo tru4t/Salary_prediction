@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-import numpy as np
 import joblib
 import streamlit as st
 import pandas as pd
